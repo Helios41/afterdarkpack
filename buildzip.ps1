@@ -5,6 +5,6 @@ Copy-Item "modpack.jar" "temp/bin/modpack.jar"
 Copy-Item "mods" "temp/mods" -Recurse
 Copy-Item "config" "temp/config" -Recurse
 
-Compress-Archive -Path "temp/*" -DestinationPath "afterdarkpack.zip"
+Compress-Archive -Path "temp/*" -DestinationPath "afterdarkpack.zip" -Force
 
 Remove-Item "temp" -Recurse | Out-Null

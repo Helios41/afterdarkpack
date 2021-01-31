@@ -389,7 +389,7 @@
 	"Pat The Dogs" = true
 	"Enhanced Ladders" = true
 	"Snow Golem Player Heads" = true
-	"Glass Shard" = true
+	"Glass Shard" = false
 	"Campfires Boost Elytra" = true
 
 	[tweaks.sign_editing]
@@ -1934,10 +1934,10 @@
 
 [oddities]
 	"Totem Of Holding" = true
-	Backpack = true
-	"Matrix Enchanting" = true
+	Backpack = false
+	"Matrix Enchanting" = false
 	Magnets = true
-	Pipes = true
+	Pipes = false
 
 	[oddities.totem_of_holding]
 		#

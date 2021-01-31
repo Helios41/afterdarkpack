@@ -1,0 +1,30 @@
+{
+	id: 13,
+	filename: "blood_magic",
+	order_index: 4,
+	title: "Blood Magic",
+	icon: {
+		id: "patchouli:guide_book",
+		Count: true,
+		tag: {
+			"patchouli:book": "bloodmagic:guide"
+		}
+	},
+	default_quest_shape: "",
+	quests: [{
+		x: 1.5d,
+		y: 0.0d,
+		id: 131,
+		tasks: [{
+			id: 132,
+			type: "item",
+			item: {
+				id: "patchouli:guide_book",
+				Count: true,
+				tag: {
+					"patchouli:book": "bloodmagic:guide"
+				}
+			}
+		}]
+	}]
+}

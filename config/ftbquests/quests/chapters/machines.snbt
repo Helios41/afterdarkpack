@@ -1,0 +1,216 @@
+{
+	id: 71,
+	filename: "machines",
+	order_index: 5,
+	title: "Electricity (RF)",
+	icon: "mekanismgenerators:solar_generator",
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "Energy Generation",
+			x: -5.5d,
+			y: -2.0d,
+			id: 73,
+			tasks: [{
+				id: 74,
+				type: "item",
+				item: "mekanismgenerators:heat_generator"
+			}]
+		},
+		{
+			x: -8.5d,
+			y: -0.5d,
+			dependencies: [I;73],
+			id: 75,
+			tasks: [{
+				id: 76,
+				type: "item",
+				item: "mekanismgenerators:solar_generator"
+			}]
+		},
+		{
+			x: -8.5d,
+			y: 1.0d,
+			dependencies: [I;75],
+			id: 77,
+			tasks: [{
+				id: 78,
+				type: "item",
+				item: "mekanismgenerators:advanced_solar_generator"
+			}]
+		},
+		{
+			x: -7.0d,
+			y: -0.5d,
+			dependencies: [I;73],
+			id: 79,
+			tasks: [{
+				id: 80,
+				type: "item",
+				item: "mekanismgenerators:wind_generator"
+			}]
+		},
+		{
+			title: "Energy Storage",
+			x: 2.0d,
+			y: -2.0d,
+			id: 81,
+			tasks: [{
+				id: 82,
+				type: "item",
+				item: "mekanism:basic_energy_cube"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: -0.5d,
+			dependencies: [I;81],
+			id: 83,
+			tasks: [{
+				id: 84,
+				type: "item",
+				item: "mekanism:advanced_energy_cube"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 1.0d,
+			dependencies: [I;83],
+			id: 85,
+			tasks: [{
+				id: 86,
+				type: "item",
+				item: "mekanism:elite_energy_cube"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 2.5d,
+			dependencies: [I;85],
+			id: 87,
+			tasks: [{
+				id: 88,
+				type: "item",
+				item: "mekanism:ultimate_energy_cube"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 4.0d,
+			dependencies: [I;87],
+			id: 89,
+			tasks: [{
+				id: 90,
+				type: "item",
+				item: "mekanism:induction_casing"
+			}]
+		},
+		{
+			x: -5.5d,
+			y: -0.5d,
+			description: ["Burns bio fuel"],
+			dependencies: [I;73],
+			id: 91,
+			tasks: [
+				{
+					id: 92,
+					type: "item",
+					item: "mekanismgenerators:bio_generator"
+				},
+				{
+					id: 111,
+					type: "item",
+					item: "mekanism:bio_fuel"
+				}
+			]
+		},
+		{
+			x: -4.0d,
+			y: -0.5d,
+			description: ["Burns hydrogen gas or ethylene gas"],
+			dependencies: [I;73],
+			id: 93,
+			tasks: [{
+				id: 94,
+				type: "item",
+				item: "mekanismgenerators:gas_burning_generator"
+			}]
+		},
+		{
+			title: "Energy Transportation",
+			x: 0.0d,
+			y: -2.0d,
+			id: 112,
+			tasks: [{
+				id: 113,
+				type: "item",
+				item: "mekanism:basic_universal_cable"
+			}]
+		},
+		{
+			x: 0.0d,
+			y: -0.5d,
+			dependencies: [I;112],
+			id: 114,
+			tasks: [{
+				id: 115,
+				type: "item",
+				item: "mekanism:advanced_universal_cable"
+			}]
+		},
+		{
+			x: 0.0d,
+			y: 1.0d,
+			dependencies: [I;114],
+			id: 116,
+			tasks: [{
+				id: 117,
+				type: "item",
+				item: "mekanism:elite_universal_cable"
+			}]
+		},
+		{
+			x: 0.0d,
+			y: 2.5d,
+			dependencies: [I;116],
+			id: 118,
+			tasks: [{
+				id: 119,
+				type: "item",
+				item: "mekanism:ultimate_universal_cable"
+			}]
+		},
+		{
+			title: "Fission Reactor",
+			x: -2.5d,
+			y: -0.5d,
+			dependencies: [I;73],
+			id: 120,
+			tasks: [
+				{
+					id: 121,
+					type: "item",
+					item: "mekanismgenerators:fission_reactor_casing",
+					count: 53L
+				},
+				{
+					id: 122,
+					type: "item",
+					item: "mekanismgenerators:fission_reactor_port",
+					count: 4L
+				},
+				{
+					id: 123,
+					type: "item",
+					item: "mekanismgenerators:control_rod_assembly"
+				},
+				{
+					id: 124,
+					type: "item",
+					item: "mekanismgenerators:fission_fuel_assembly",
+					count: 2L
+				}
+			]
+		}
+	]
+}

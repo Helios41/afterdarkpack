@@ -1,0 +1,90 @@
+{
+	id: 72,
+	filename: "storage",
+	order_index: 7,
+	title: "Storage",
+	icon: "storagedrawers:oak_full_drawers_4",
+	default_quest_shape: "",
+	quests: [
+		{
+			x: -4.5d,
+			y: -2.5d,
+			id: 95,
+			tasks: [{
+				id: 96,
+				type: "item",
+				item: "storagedrawers:oak_full_drawers_4"
+			}]
+		},
+		{
+			x: -2.0d,
+			y: -2.5d,
+			id: 97,
+			tasks: [{
+				id: 98,
+				type: "item",
+				item: "ironchest:iron_chest"
+			}]
+		},
+		{
+			title: "Applied Energistics 2",
+			x: 0.5d,
+			y: -2.5d,
+			id: 99,
+			tasks: [
+				{
+					id: 100,
+					type: "item",
+					item: "appliedenergistics2:calculation_processor_press"
+				},
+				{
+					id: 101,
+					type: "item",
+					item: "appliedenergistics2:engineering_processor_press"
+				},
+				{
+					id: 103,
+					type: "item",
+					item: "appliedenergistics2:logic_processor_press"
+				},
+				{
+					id: 104,
+					type: "item",
+					item: "appliedenergistics2:silicon_press"
+				}
+			]
+		},
+		{
+			x: -6.5d,
+			y: -2.5d,
+			id: 105,
+			tasks: [{
+				id: 106,
+				type: "item",
+				item: "usefulbackpacks:backpack_small"
+			}]
+		},
+		{
+			x: -6.5d,
+			y: -0.5d,
+			dependencies: [I;105],
+			id: 107,
+			tasks: [{
+				id: 108,
+				type: "item",
+				item: "usefulbackpacks:backpack_medium"
+			}]
+		},
+		{
+			x: -6.5d,
+			y: 1.5d,
+			dependencies: [I;107],
+			id: 109,
+			tasks: [{
+				id: 110,
+				type: "item",
+				item: "usefulbackpacks:backpack_large"
+			}]
+		}
+	]
+}

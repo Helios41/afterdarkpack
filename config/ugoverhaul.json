@@ -1,0 +1,143 @@
+{
+    "ores": [
+        { "loc": "minecraft:coal_ore", "color": "373737" },
+        { "loc": "minecraft:diamond_ore", "color": "77cefb" },
+        { "loc": "minecraft:emerald_ore", "color": "007b18" },
+        { "loc": "minecraft:gold_ore", "color": "fcee4b" },
+        { "loc": "minecraft:iron_ore", "color": "bc9980" },
+        { "loc": "minecraft:lapis_ore", "color": "1c45af" },
+        { "loc": "minecraft:redstone_ore", "color": "8f0303" },
+        { "loc": "mekanism:copper_ore", "color": "FF00FF" },
+        { "loc": "mekanism:fluorite_ore", "color": "FF00FF" },
+        { "loc": "mekanism:lead_ore", "color": "FF00FF" },
+        { "loc": "mekanism:osmium_ore", "color": "FF00FF" },
+        { "loc": "mekanism:tin_ore", "color": "FF00FF" },
+        { "loc": "mekanism:uranium_ore", "color": "FF00FF" }
+    ],
+    "stoneVariants": [
+        "andesite",
+        "basalt",
+        "black_granite",
+        "blueschist",
+        "dacite",
+        "eclogite",
+        "gabbro",
+        "gneiss",
+        "greenschist",
+        "komatiite",
+        "marble",
+        "migmatite",
+        "quartzite",
+        "red_granite",
+        "rhyolite",
+        "soapstone"
+    ],
+    "sandVariants": [
+        "andesite",
+        "basalt",
+        "black_granite",
+        "blueschist",
+        "chalk",
+        "chert",
+        "dacite",
+        "dolomite",
+        "eclogite",
+        "gabbro",
+        "gneiss",
+        "greenschist",
+        "greywacke",
+        "komatiite",
+        "lignite",
+        "limestone",
+        "marble",
+        "migmatite",
+        "quartzite",
+        "red_granite",
+        "rhyolite",
+        "shale",
+        "siltstone",
+        "soapstone"
+    ],
+    "largeOreDeposits": [
+        {
+            "oreLoc": "minecraft:coal_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:diamond_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:emerald_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:gold_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:iron_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:lapis_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "minecraft:redstone_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:copper_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        }
+    ]
+}

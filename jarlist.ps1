@@ -1,1 +1,1 @@
-Get-ChildItem mods | Get-FileHash > jarlist.txt
+Get-ChildItem mods | Get-FileHash | Format-List > jarlist.txt

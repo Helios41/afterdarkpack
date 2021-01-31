@@ -7,12 +7,12 @@
         { "loc": "minecraft:iron_ore", "color": "bc9980" },
         { "loc": "minecraft:lapis_ore", "color": "1c45af" },
         { "loc": "minecraft:redstone_ore", "color": "8f0303" },
-        { "loc": "mekanism:copper_ore", "color": "FF00FF" },
-        { "loc": "mekanism:fluorite_ore", "color": "FF00FF" },
-        { "loc": "mekanism:lead_ore", "color": "FF00FF" },
-        { "loc": "mekanism:osmium_ore", "color": "FF00FF" },
-        { "loc": "mekanism:tin_ore", "color": "FF00FF" },
-        { "loc": "mekanism:uranium_ore", "color": "FF00FF" }
+        { "loc": "mekanism:copper_ore", "color": "9f5339" },
+        { "loc": "mekanism:fluorite_ore", "color": "d6aedd" },
+        { "loc": "mekanism:lead_ore", "color": "464858" },
+        { "loc": "mekanism:osmium_ore", "color": "8ca0bb" },
+        { "loc": "mekanism:tin_ore", "color": "c4c4c4" },
+        { "loc": "mekanism:uranium_ore", "color": "1f974b" }
     ],
     "stoneVariants": [
         "andesite",
@@ -73,8 +73,8 @@
             "oreLoc": "minecraft:diamond_ore",
             "oreChance": 0.5,
             "surfacePileChance": 0.05,
-            "minRadius": 10,
-            "maxRadius": 15,
+            "minRadius": 5,
+            "maxRadius": 10,
             "minHeight": 10,
             "maxHeight": 50,
             "chance": 0.0025
@@ -83,8 +83,8 @@
             "oreLoc": "minecraft:emerald_ore",
             "oreChance": 0.5,
             "surfacePileChance": 0.05,
-            "minRadius": 10,
-            "maxRadius": 15,
+            "minRadius": 5,
+            "maxRadius": 10,
             "minHeight": 10,
             "maxHeight": 50,
             "chance": 0.0025
@@ -131,6 +131,56 @@
         },
         {
             "oreLoc": "mekanism:copper_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:fluorite_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:lead_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:osmium_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:tin_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "mekanism:uranium_ore",
             "oreChance": 0.5,
             "surfacePileChance": 0.05,
             "minRadius": 10,

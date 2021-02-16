@@ -1,62 +1,89 @@
 {
+    "oreTags": [
+        "forge:ores"
+    ],
     "ores": [
-        { "loc": "minecraft:coal_ore", "color": "373737" },
-        { "loc": "minecraft:diamond_ore", "color": "77cefb" },
-        { "loc": "minecraft:emerald_ore", "color": "007b18" },
-        { "loc": "minecraft:gold_ore", "color": "fcee4b" },
-        { "loc": "minecraft:iron_ore", "color": "bc9980" },
-        { "loc": "minecraft:lapis_ore", "color": "1c45af" },
-        { "loc": "minecraft:redstone_ore", "color": "8f0303" },
-        { "loc": "mekanism:copper_ore", "color": "9f5339" },
-        { "loc": "mekanism:fluorite_ore", "color": "d6aedd" },
-        { "loc": "mekanism:lead_ore", "color": "464858" },
-        { "loc": "mekanism:osmium_ore", "color": "8ca0bb" },
-        { "loc": "mekanism:tin_ore", "color": "c4c4c4" },
-        { "loc": "mekanism:uranium_ore", "color": "1f974b" }
+        { "loc": "minecraft:coal_ore", "name": "Coal Ore", "color": "373737", "tags": [ "forge:ores/coal" ] },
+        { "loc": "minecraft:diamond_ore", "name": "Diamond Ore", "color": "77cefb", "tags": [ "forge:ores/diamond" ] },
+        { "loc": "minecraft:emerald_ore", "name": "Emerald Ore", "color": "007b18", "tags": [ "forge:ores/emerald" ] },
+        { "loc": "minecraft:gold_ore", "name": "Gold Ore", "color": "fcee4b", "tags": [ "forge:ores/gold" ] },
+        { "loc": "minecraft:iron_ore", "name": "Iron Ore", "color": "bc9980", "tags": [ "forge:ores/iron" ] },
+        { "loc": "minecraft:lapis_ore", "name": "Lapis Lazuli Ore", "color": "1c45af", "tags": [ "forge:ores/lapis" ] },
+        { "loc": "minecraft:redstone_ore", "name": "Redstone Ore", "color": "8f0303", "tags": [ "forge:ores/redstone" ] },
+        { "loc": "mekanism:copper_ore", "name": "Copper Ore", "color": "9f5339", "tags": [ "forge:ores/copper" ] },
+        { "loc": "mekanism:fluorite_ore", "name": "Fluorite Ore", "color": "d6aedd", "tags": [ "forge:ores/fluorite" ] },
+        { "loc": "mekanism:lead_ore", "name": "Lead Ore", "color": "464858", "tags": [ "forge:ores/lead" ] },
+        { "loc": "mekanism:osmium_ore", "name": "Osmium Ore", "color": "8ca0bb", "tags": [ "forge:ores/osmium" ] },
+        { "loc": "mekanism:tin_ore", "name": "Tin Ore", "color": "c4c4c4", "tags": [ "forge:ores/tin" ] },
+        { "loc": "mekanism:uranium_ore", "name": "Uranium Ore", "color": "1f974b", "tags": [ "forge:ores/uranium" ] },
+        { "loc": "appliedenergistics2:quartz_ore", "name": "Certus Quartz Ore", "color": "7da2c4", "tags": [ "forge:ores/certus_quartz" ] },
+        { "loc": "ars_nouveau:arcane_ore", "name": "Arcane Ore", "color": "99008c", "tags": [ "forge:ores/mana_gem" ] }
+    ],
+    "stoneTags": [
+        "forge:stone"
+    ],
+    "cobbleTags": [
+        "forge:cobblestone"
+    ],
+    "brickTags": [
+        "minecraft:stone_bricks"
+    ],
+    "slabTags": [
+        "minecraft:slabs"
+    ],
+    "stairTags" : [
+        "minecraft:stairs"
     ],
     "stoneVariants": [
-        "andesite",
-        "basalt",
-        "black_granite",
-        "blueschist",
-        "dacite",
-        "eclogite",
-        "gabbro",
-        "gneiss",
-        "greenschist",
-        "komatiite",
-        "marble",
-        "migmatite",
-        "quartzite",
-        "red_granite",
-        "rhyolite",
-        "soapstone"
+        { "id": "andesite", "name": "Latite" },
+        { "id": "basalt", "name": "Dunite" },
+        { "id": "black_granite", "name": "Black Granite" },
+        { "id": "blueschist", "name": "Blueschist" },
+        { "id": "dacite", "name": "Dacite" },
+        { "id": "eclogite", "name": "Eclogite" },
+        { "id": "gabbro", "name": "Gabbro" },
+        { "id": "gneiss", "name": "Gneiss" },
+        { "id": "greenschist", "name": "Greenschist" },
+        { "id": "komatiite", "name": "Komatiite" },
+        { "id": "marble", "name": "Mylonite" },
+        { "id": "migmatite", "name": "Migmatite" },
+        { "id": "quartzite", "name": "Quartzite" },
+        { "id": "red_granite", "name": "Red Granite" },
+        { "id": "rhyolite", "name": "Rhyolite" },
+        { "id": "soapstone", "name": "Soapstone" }
+    ],
+    "sandTags": [
+        "forge:sand",
+        "minecraft:sand"
+    ],
+    "sandstoneTags": [
+        "forge:sandstone"
     ],
     "sandVariants": [
-        "andesite",
-        "basalt",
-        "black_granite",
-        "blueschist",
-        "chalk",
-        "chert",
-        "dacite",
-        "dolomite",
-        "eclogite",
-        "gabbro",
-        "gneiss",
-        "greenschist",
-        "greywacke",
-        "komatiite",
-        "lignite",
-        "limestone",
-        "marble",
-        "migmatite",
-        "quartzite",
-        "red_granite",
-        "rhyolite",
-        "shale",
-        "siltstone",
-        "soapstone"
+        { "id": "andesite", "name": "Latite" },
+        { "id": "basalt", "name": "Dunite" },
+        { "id": "black_granite", "name": "Black Granite" },
+        { "id": "blueschist", "name": "Blueschist" },
+        { "id": "chalk", "name": "Chalk" },
+        { "id": "chert", "name": "Chert" },
+        { "id": "dacite", "name": "Dacite" },
+        { "id": "dolomite", "name": "Dolomite" },
+        { "id": "eclogite", "name": "Eclogite" },
+        { "id": "gabbro", "name": "Gabbro" },
+        { "id": "gneiss", "name": "Gneiss" },
+        { "id": "greenschist", "name": "Greenschist" },
+        { "id": "greywacke", "name": "Greywacke" },
+        { "id": "komatiite", "name": "Komatiite" },
+        { "id": "lignite", "name": "Lignite" },
+        { "id": "limestone", "name": "Limestone" },
+        { "id": "marble", "name": "Mylonite" },
+        { "id": "migmatite", "name": "Migmatite" },
+        { "id": "quartzite", "name": "Quartzite" },
+        { "id": "red_granite", "name": "Red Granite" },
+        { "id": "rhyolite", "name": "Rhyolite" },
+        { "id": "shale", "name": "Shale" },
+        { "id": "siltstone", "name": "Siltstone" },
+        { "id": "soapstone", "name": "Soapstone" }
     ],
     "largeOreDeposits": [
         {
@@ -77,7 +104,7 @@
             "maxRadius": 10,
             "minHeight": 10,
             "maxHeight": 50,
-            "chance": 0.0025
+            "chance": 0.00025
         },
         {
             "oreLoc": "minecraft:emerald_ore",
@@ -87,7 +114,7 @@
             "maxRadius": 10,
             "minHeight": 10,
             "maxHeight": 50,
-            "chance": 0.0025
+            "chance": 0.00025
         },
         {
             "oreLoc": "minecraft:gold_ore",
@@ -181,6 +208,26 @@
         },
         {
             "oreLoc": "mekanism:uranium_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "appliedenergistics2:quartz_ore",
+            "oreChance": 0.5,
+            "surfacePileChance": 0.05,
+            "minRadius": 10,
+            "maxRadius": 15,
+            "minHeight": 10,
+            "maxHeight": 50,
+            "chance": 0.0025
+        },
+        {
+            "oreLoc": "ars_nouveau:arcane_ore",
             "oreChance": 0.5,
             "surfacePileChance": 0.05,
             "minRadius": 10,

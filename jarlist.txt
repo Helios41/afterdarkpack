@@ -41,6 +41,10 @@ Hash      : 6AF81E7B6384AD193BF4F07CC2EBFCBF63C6F49865EA259CA0C667D82ABABE03
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\caelus-forge-1.16.5-2.1.2.2.jar
 
 Algorithm : SHA256
+Hash      : 63E254F2892C97F13EA711E4FC056792029701F7021B9237A972C9507FE52581
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\cc-tweaked-1.16.4-1.95.2.jar
+
+Algorithm : SHA256
 Hash      : 0DFDEFAB6C955909E637CEC97AD9CF366F3E1E3994B6228971F37894B7C56272
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\chiselsandbits-0.2.10-RELEASE.jar
 
@@ -73,12 +77,20 @@ Hash      : 41D4296FFFDA747361B9F36F7F30503154D81DDAB2F97169CE3E74BA3761F948
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\curiouselytra-forge-1.16.5-4.0.2.0.jar
 
 Algorithm : SHA256
+Hash      : 59D8C5F058EF329BF6363FA8D300DA3E876C523F9CC6229E0524317207442489
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\DoggyTalents-1.16.4-2.0.1.3.jar
+
+Algorithm : SHA256
 Hash      : FBB861B85858F7A118A442D5577A53E5415C1F1B6BA7C4ADE942D5512706F40D
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\EnderStorage-1.16.4-2.7.1.166-universal.jar
 
 Algorithm : SHA256
 Hash      : F70887E345C4C47B60A32355B6ABC092127D6BE38FC8E713E3C577723DAC1DAE
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\FarmersDelight-1.16.3-0.3.2.jar
+
+Algorithm : SHA256
+Hash      : BD02B01C02D7F7F10A3B12B17E0807F94C5120F127A1222F7DF9F22A34195415
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-backups-2.1.1.6.jar
 
 Algorithm : SHA256
 Hash      : 7E95456B12994EF8E65F5EF20BD3DFAA4B33E4CB94004E6A221CC2DB19F71BD1
@@ -99,6 +111,10 @@ Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\geckolib-forge-1.16.
 Algorithm : SHA256
 Hash      : BF9B2B6DE7EA3259691507DDBA2432E958522C2910BF234980693096B6F68652
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\gravestone-1.16.5-1.0.1.jar
+
+Algorithm : SHA256
+Hash      : F82F0FABA38F3AAF83EB038FFBB9D868E983BCE3A34BC723EFD9FEAD05A69629
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\invtweaks-1.16.4-1.0.1.jar
 
 Algorithm : SHA256
 Hash      : 5208572A3F07647CA3CFED9F7414957ACD0059B7F708D2518F4C73C98BEAE6BE
@@ -151,6 +167,14 @@ Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\simplefarming-1.16.4
 Algorithm : SHA256
 Hash      : E8775A6BD6B4C61F2DF6EFE22294D41E390B1AEF79D744233948CC1E2BB07651
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\StorageDrawers-1.16.3-8.2.2.jar
+
+Algorithm : SHA256
+Hash      : FCD0E3F808569F0E547313A1EA3563C9A5D2FA8FBB638678EED6E46C1D8CFAF1
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\towers_of_the_wild-1.16.4-2.0.1.jar
+
+Algorithm : SHA256
+Hash      : 54FFD7ABD7BCEFBBE862D22E731E5C53239DE23319095F310959EDECA3C02950
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ugoverhaul-1.1.jar
 
 Algorithm : SHA256
 Hash      : F0DD39904670FED82567E1BEBCF6F38C0AB38A5C969D300C27A3D73B07619557

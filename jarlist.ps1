@@ -1,1 +1,1 @@
-Get-ChildItem mods | Get-FileHash | Format-List > jarlist.txt
+Get-ChildItem mods | Get-FileHash | Format-List | Out-File -encoding ascii jarlist.txt

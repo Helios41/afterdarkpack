@@ -5,16 +5,16 @@ Hash      : E0D39F6B138E853D6171BD51FA158545D68CAB5E718A01FEB919D37964E5EB4F
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\AppleSkin-mc1.16.2-forge-1.0.14.jar
 
 Algorithm : SHA256
-Hash      : 6B64B03CE42941B18C427ACA2F29EB2A84EEFA838426795C7EB757B06E230ABA
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\appliedenergistics2-8.1.0.jar
+Hash      : FE70B1891E1F8D2AB824094AFAA706AF87155C7613276BFA835BC1562AEACAD8
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\appliedenergistics2-8.2.0.jar
 
 Algorithm : SHA256
-Hash      : F673E3401069CF9BB9B32552095EFA19C1CF76FAFC0E73D02CBBE545286CB902
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\architectury-1.5.104-forge.jar
+Hash      : 2F9E0730442142590F5B383226575C9CB7E63CD6DA9223CBD2160F7EAEAFFD05
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\architectury-1.6.114-forge.jar
 
 Algorithm : SHA256
-Hash      : 3156ACD18EDB159889ED9E95551FB5BA5C45BEFA57DA75D80B83699659BAC7FD
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ars_nouveau-1.16.4-1.11.2.jar
+Hash      : 09029C511F58FC96CBDB538030A8A01AF4A7C4F11F8016BEE13518E8FA325AAD
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ars_nouveau-1.16.4-1.11.5.jar
 
 Algorithm : SHA256
 Hash      : B452AF1FF7DEF9F66DF550B45FE15E5AC3E26731F130D5B80B58C1E6431D7881
@@ -45,8 +45,8 @@ Hash      : 0DFDEFAB6C955909E637CEC97AD9CF366F3E1E3994B6228971F37894B7C56272
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\chiselsandbits-0.2.10-RELEASE.jar
 
 Algorithm : SHA256
-Hash      : 70C3D40994F8E435D970163E940EFFF907E27312F8A6CEE3013832727A491355
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\cloth-config-forge-4.1.3.jar
+Hash      : D47BF12ED961FAC529064254931308D1CA20D08F411718563827141175DAF32B
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\cloth-config-4.10.13-forge.jar
 
 Algorithm : SHA256
 Hash      : 6B88E5F13CEB642734D3F3168DA706A80AE2A2D538BA8DD958EB73B3D8911AB3
@@ -57,16 +57,16 @@ Hash      : 97FD2B1FEFAFA1F4597DE53163572D3CA5B4CD64507D8A3BB0F8DC32349B7D26
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\comforts-forge-1.16.4-4.0.1.0.jar
 
 Algorithm : SHA256
-Hash      : 7E7DB32A8C817CCBC7D045036110762F99E47011797ED0D3EEDF6AD3BCD08CD2
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Controlling-7.0.0.11.jar
+Hash      : 53133BD7A3D6511C5F4C57A250A3FF0A9CC3E83452490C1F0EF3A1E2F55B4FD2
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Controlling-7.0.0.13.jar
 
 Algorithm : SHA256
 Hash      : 5B15A1E4BAC72160ED1EF1042C2CEF5EECA5D8DBFECB6620511CAA1CF644ADAA
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\CookingForBlockheads_1.16.3-9.2.2.jar
 
 Algorithm : SHA256
-Hash      : FFC6A6250A838F760D79E6EAC13249D5C06C14D0EFC67C9D7154EC5F5F25D7EA
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\curios-forge-1.16.4-4.0.3.5.jar
+Hash      : 4D6D63C432E24D295A410EC9EB24054123094DB4913E76F564ADFA188CF59D29
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\curios-forge-1.16.5-4.0.4.0.jar
 
 Algorithm : SHA256
 Hash      : 41D4296FFFDA747361B9F36F7F30503154D81DDAB2F97169CE3E74BA3761F948
@@ -77,76 +77,68 @@ Hash      : FBB861B85858F7A118A442D5577A53E5415C1F1B6BA7C4ADE942D5512706F40D
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\EnderStorage-1.16.4-2.7.1.166-universal.jar
 
 Algorithm : SHA256
-Hash      : A5D84F9C10533325D229EE1B579531BE823FBC823508288D4EDC2A7D2D9465DA
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\FarmersDelight-1.16.3-0.3.1.jar
+Hash      : F70887E345C4C47B60A32355B6ABC092127D6BE38FC8E713E3C577723DAC1DAE
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\FarmersDelight-1.16.3-0.3.2.jar
 
 Algorithm : SHA256
-Hash      : 483987B15CF09F78E84AE65988652C69EF1CDBB355D8C2C92AA31EF69861A92F
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\forge-1.16.5-geckolib-3.0.6.jar
+Hash      : 7E95456B12994EF8E65F5EF20BD3DFAA4B33E4CB94004E6A221CC2DB19F71BD1
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-chunks-1604.2.2.62.jar
 
 Algorithm : SHA256
-Hash      : 7074EB51A065A6EEEDCD7E31859DCFB79C9E9E4F6C2C05F062111612BE7ADB9A
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-chunks-1604.2.2.61.jar
-
-Algorithm : SHA256
-Hash      : 8F7418B9F02A503102773EE58D06C853A8F3A36806184F4F9BD823C9E2F266F8
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-gui-library-1604.1.0.34-forge.jar
-
-Algorithm : SHA256
-Hash      : 9E7A9833447EE617B183C6B94BD65A494A15BFF6E65B4A00EC61FA977906D8AC
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-quests-1604.1.1.21.jar
+Hash      : 3DC0949795A888CBBBFC7AE7074B683F8212CA238BDCAC204C6503D37081EF2B
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ftb-gui-library-1605.2.1.39-forge.jar
 
 Algorithm : SHA256
 Hash      : 5BCB2B1B8C4C79ACD0590B9E6FF48B554771BF9F3C3893A660CD0B90BA5D112D
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\furniture-7.0.0-pre19-1.16.3.jar
 
 Algorithm : SHA256
-Hash      : 6F72A49941B655F3425B2E82A3720EBFE51FC58003CCCBD5D7F7917D5466D1C8
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\gravestone-1.16.4-1.0.2.jar
+Hash      : 3B6377ABC4022E6268EF318D535C4E3CD0EDB99B5A912EA782BD1B5D637F64B3
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\geckolib-forge-1.16.5-3.0.13.jar
+
+Algorithm : SHA256
+Hash      : BF9B2B6DE7EA3259691507DDBA2432E958522C2910BF234980693096B6F68652
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\gravestone-1.16.5-1.0.1.jar
 
 Algorithm : SHA256
 Hash      : 5208572A3F07647CA3CFED9F7414957ACD0059B7F708D2518F4C73C98BEAE6BE
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ironchest-1.16.4-11.2.10.jar
 
 Algorithm : SHA256
-Hash      : 5E2E9D1F8BA230027661646A36AB0717E08B78377A55D7E6E6F269BB300AB30A
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\item-filters-1605.2.3.27-forge.jar
+Hash      : A4F1CC91214605B7D9B840A4A8FFD910C0ECCC9DB7F6CE82964BBA9F3CA661E5
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\jei-1.16.4-7.6.1.71.jar
 
 Algorithm : SHA256
-Hash      : 295C608FEE621FC6F6FDD93989658F89812B172733A53EC95795357D1B29235D
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\jei-1.16.4-7.6.1.65.jar
+Hash      : 60AF3E0EFFEDF0AC66ED474D6534A421CED0F2E8AF8228121D28B1C17FD5668A
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\light-overlay-5.7.0.jar
 
 Algorithm : SHA256
-Hash      : 4D25F7ADE7299DB66A8AB039FEE646A2E81054FC0B6B173139C183AF288DC48A
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\light-overlay-5.6.1.jar
+Hash      : 47809EDF77FFA79B08018FEBB542E719C9D5F41EACCA665EE301C2FCFDEBC529
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Mekanism-1.16.5-10.0.20.447.jar
 
 Algorithm : SHA256
-Hash      : 9E04FB14E21054C92F6512980F4AB62721EFBA45D7DC855592B815CDB41BF9D1
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Mekanism-1.16.4-10.0.19.446.jar
-
-Algorithm : SHA256
-Hash      : DA9BB253E54152B6C1A447F505867636E461BB21C6FF112773BBD2959D456F61
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\MekanismGenerators-1.16.4-10.0.19.446.jar
+Hash      : CE876D123B2919F4B54B61B6452855E0DF21389D0811B9AC791F8570E30373CE
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\MekanismGenerators-1.16.5-10.0.20.447.jar
 
 Algorithm : SHA256
 Hash      : FF34356B1F70E81702582AA75D6C71CAF42314AA6085717F3349E4F98647A484
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Morpheus-1.16.4-4.2.68.jar
 
 Algorithm : SHA256
-Hash      : 3588209BB52522632D44CCD4F953ABB177DEB3F2692FEEBF22448E25BAF79EFF
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\NaturesCompass-1.16.4-1.8.6.jar
+Hash      : 9CB8C6A3A9EE492715B4D4B5239F2CF3DB0C39A5927674C86C33E9FF94B3CA97
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\NaturesCompass-1.16.5-1.8.6.jar
 
 Algorithm : SHA256
 Hash      : E6DD47B0C0BD47B88354B22ED7D5F71BFDDB48B61F96B209928A80E8A6F3F2DE
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\observerlib-1.16.4-1.5.1.jar
 
 Algorithm : SHA256
-Hash      : E7082D813F981EA89D964B6CA78A00C7DC86CE84D12EBFCEED88615FEA0A04DD
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Patchouli-1.16.4-48.jar
+Hash      : E4AA621DCBDA1AE2F46C188BAAE7E3F366BEE70055B2926E2F7A889C14B39352
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Patchouli-1.16.4-50.jar
 
 Algorithm : SHA256
-Hash      : F060C7B69ED61D162044DB36F1D6403C625BCA0EB84B94FC8E6A400B50BEB54D
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Quark-r2.4-299.jar
+Hash      : 01F404FE1AA47447D6206B03559A163440ED1B5451A2D055B3E5A8FD625C91DC
+Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\Quark-r2.4-304.jar
 
 Algorithm : SHA256
 Hash      : 5EAFD942F2EB9B13EDDE3BFF451EE968C1D0FE549C8DECD2F8551E59A079711D
@@ -159,10 +151,6 @@ Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\simplefarming-1.16.4
 Algorithm : SHA256
 Hash      : E8775A6BD6B4C61F2DF6EFE22294D41E390B1AEF79D744233948CC1E2BB07651
 Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\StorageDrawers-1.16.3-8.2.2.jar
-
-Algorithm : SHA256
-Hash      : 79E8968AFA487B8BA62D93FBBB4471313204721E8499D6E855E8932A1F816D32
-Path      : E:\Minecraft\Modpacks\afterdarkpack\latest\mods\ugoverhaul-1.0.jar
 
 Algorithm : SHA256
 Hash      : F0DD39904670FED82567E1BEBCF6F38C0AB38A5C969D300C27A3D73B07619557
